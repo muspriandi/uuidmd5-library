@@ -1,0 +1,17 @@
+cmd.exe
+/X
+/C
+""C:\Program Files\Java\jdk1.8.0_291\jre\..\bin\javadoc.exe" @options @argfile"
+d:\Cinema21\Devs\uuidmd5-library\target\apidocs\allclasses-frame.html = 1627291271585
+d:\Cinema21\Devs\uuidmd5-library\target\apidocs\allclasses-noframe.html = 1627291271585
+d:\Cinema21\Devs\uuidmd5-library\target\apidocs\argfile = 1627291270004
+d:\Cinema21\Devs\uuidmd5-library\target\apidocs\constant-values.html = 1627291271538
+d:\Cinema21\Devs\uuidmd5-library\target\apidocs\deprecated-list.html = 1627291271569
+d:\Cinema21\Devs\uuidmd5-library\target\apidocs\help-doc.html = 1627291271591
+d:\Cinema21\Devs\uuidmd5-library\target\apidocs\index-all.html = 1627291271569
+d:\Cinema21\Devs\uuidmd5-library\target\apidocs\index.html = 1627291271591
+d:\Cinema21\Devs\uuidmd5-library\target\apidocs\options = 1627291270004
+d:\Cinema21\Devs\uuidmd5-library\target\apidocs\overview-tree.html = 1627291271553
+d:\Cinema21\Devs\uuidmd5-library\target\apidocs\package-list = 1627291271504
+d:\Cinema21\Devs\uuidmd5-library\target\apidocs\script.js = 1627291271599
+d:\Cinema21\Devs\uuidmd5-library\target\apidocs\stylesheet.css = 1627291103523

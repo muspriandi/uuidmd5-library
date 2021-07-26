@@ -20,7 +20,7 @@ public class IdGenerator extends UUIDGenerator {
         
         try {
             /* 
-                createHash(super.generate(session, object).toString() == UUID 128 bit
+                super.generate(session, object) == UUID 128 bit
             */
             return createHash(super.generate(session, object).toString());
         } catch (NoSuchAlgorithmException e) {
